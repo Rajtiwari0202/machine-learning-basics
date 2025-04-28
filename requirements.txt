@@ -1,0 +1,9 @@
+# Core libraries
+numpy==1.26.4
+pandas==2.2.2
+
+# Machine Learning
+scikit-learn==1.4.2
+
+# Development environment
+jupyter==1.0.0
